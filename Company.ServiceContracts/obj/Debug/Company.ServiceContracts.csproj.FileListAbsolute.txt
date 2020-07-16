@@ -1,0 +1,20 @@
+C:\mvc\EFDbFirstApproachExample\Company.ServiceContracts\bin\Debug\Company.ServiceContracts.dll
+C:\mvc\EFDbFirstApproachExample\Company.ServiceContracts\bin\Debug\Company.ServiceContracts.pdb
+C:\mvc\EFDbFirstApproachExample\Company.ServiceContracts\bin\Debug\Company.DomainModels.dll
+C:\mvc\EFDbFirstApproachExample\Company.ServiceContracts\bin\Debug\Company.DomainModels.pdb
+C:\mvc\EFDbFirstApproachExample\Company.ServiceContracts\bin\Debug\Company.DomainModels.dll.config
+C:\mvc\EFDbFirstApproachExample\Company.ServiceContracts\obj\Debug\Company.ServiceContracts.csprojAssemblyReference.cache
+C:\mvc\EFDbFirstApproachExample\Company.ServiceContracts\obj\Debug\Company.ServiceContracts.csproj.CoreCompileInputs.cache
+C:\mvc\EFDbFirstApproachExample\Company.ServiceContracts\obj\Debug\Company.ServiceContracts.csproj.CopyComplete
+C:\mvc\EFDbFirstApproachExample\Company.ServiceContracts\obj\Debug\Company.ServiceContracts.dll
+C:\mvc\EFDbFirstApproachExample\Company.ServiceContracts\obj\Debug\Company.ServiceContracts.pdb
+C:\Priya\ASP_MVC5_Project\24.01.+Service+Pattern\24.01. Service Pattern\Company.ServiceContracts\bin\Debug\Company.ServiceContracts.dll
+C:\Priya\ASP_MVC5_Project\24.01.+Service+Pattern\24.01. Service Pattern\Company.ServiceContracts\bin\Debug\Company.ServiceContracts.pdb
+C:\Priya\ASP_MVC5_Project\24.01.+Service+Pattern\24.01. Service Pattern\Company.ServiceContracts\bin\Debug\Company.DomainModels.dll
+C:\Priya\ASP_MVC5_Project\24.01.+Service+Pattern\24.01. Service Pattern\Company.ServiceContracts\bin\Debug\Company.DomainModels.pdb
+C:\Priya\ASP_MVC5_Project\24.01.+Service+Pattern\24.01. Service Pattern\Company.ServiceContracts\bin\Debug\Company.DomainModels.dll.config
+C:\Priya\ASP_MVC5_Project\24.01.+Service+Pattern\24.01. Service Pattern\Company.ServiceContracts\obj\Debug\Company.ServiceContracts.csprojAssemblyReference.cache
+C:\Priya\ASP_MVC5_Project\24.01.+Service+Pattern\24.01. Service Pattern\Company.ServiceContracts\obj\Debug\Company.ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Priya\ASP_MVC5_Project\24.01.+Service+Pattern\24.01. Service Pattern\Company.ServiceContracts\obj\Debug\Company.ServiceContracts.csproj.CopyComplete
+C:\Priya\ASP_MVC5_Project\24.01.+Service+Pattern\24.01. Service Pattern\Company.ServiceContracts\obj\Debug\Company.ServiceContracts.dll
+C:\Priya\ASP_MVC5_Project\24.01.+Service+Pattern\24.01. Service Pattern\Company.ServiceContracts\obj\Debug\Company.ServiceContracts.pdb
